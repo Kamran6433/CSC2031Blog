@@ -10,9 +10,7 @@ app.register_blueprint(blog_blueprint)
 app.register_blueprint(users_blueprint)
 
 
-
 if __name__ == '__main__':
-
     app.run()
 
 
